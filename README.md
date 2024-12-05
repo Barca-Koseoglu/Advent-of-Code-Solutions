@@ -1,4 +1,4 @@
-# Advent-of-Code-Solutions-2024
+# Advent-of-Code-Solutions
 
 This repository is to show my code solutions to the problems for [Advent of Code](https://adventofcode.com/) 2024. Advent of code is made by a guy named Eric Wastl. He creates these creative programming problems with a whole story behind them 
 every year for 25 days up to Christmas day. Each day, a problem is given for you to solve. After you solve it, another similar problem is given for you to solve as well, like a part two of the first problem. Each problem you solve gives you a 
